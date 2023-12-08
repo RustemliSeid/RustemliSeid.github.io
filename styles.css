@@ -22,8 +22,8 @@ header {
 .profile-picture {
   border-radius: 60%;
   margin-right: 10px;
-  width: 100px; /* Adjust the size as needed */
-  height: 100px; /* Adjust the size as needed */
+  width: 100px; 
+  height: 100px; 
 }
 
 .name-and-title {
@@ -71,3 +71,5 @@ h2 {
   font-style: italic;
   color: #777;
 }
+
+
